@@ -30,4 +30,4 @@ Here are some useful Terraform Registry links for understanding the AWS resource
 - **EC2 Instance**: [AWS EC2 Instance Resource Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance) - Detailed guide on configuring and deploying EC2 instances.
 - **S3 Bucket**: [AWS S3 Bucket Resource Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket) - Information on creating and managing S3 buckets.
 - **Security Group**: [AWS Security Group Resource Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group) - Guide to creating and managing security groups for secure access.
-
+- **Launch Template**: [AWS Security Group Resource Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/launch_template) - Provides information about a Launch Template Data Source.
