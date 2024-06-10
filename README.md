@@ -27,3 +27,15 @@ The highlight of this project is its use of data sources to automatically select
 
 ## Contribution
 Feel free to fork this project, make changes, and submit pull requests if you have improvements or additional features you would like to introduce.
+
+## Useful links
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/ami
+
+## Documentation Links
+Here are some useful Terraform Registry links for understanding the AWS resources configured in this project:
+
+- **AMI Data Source**: [AWS AMI Data Source Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/ami) - Learn about dynamic AMI selection for EC2 instances.
+- **EC2 Instance**: [AWS EC2 Instance Resource Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance) - Detailed guide on configuring and deploying EC2 instances.
+- **S3 Bucket**: [AWS S3 Bucket Resource Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket) - Information on creating and managing S3 buckets.
+- **Security Group**: [AWS Security Group Resource Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group) - Guide to creating and managing security groups for secure access.
+
